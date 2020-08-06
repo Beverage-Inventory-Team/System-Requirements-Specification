@@ -201,25 +201,16 @@ INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specif
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/CD.png
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/product_description.tex
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/product_description.tex
+INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/CD.png
+INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/CD.png
+INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/CD.png
+INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/CD.png
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/customer_requirements.tex
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/customer_requirements.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbfc8t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchri8t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbi8t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ts1mdbch.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ts1mdbch.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8c.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchbfc8t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8y.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchri8t.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8y.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchbi8t.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chbi8y.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chbi8t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8c.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8c.tfm
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/packaging_requirements.tex
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/packaging_requirements.tex
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/performance_requirements.tex
@@ -235,8 +226,6 @@ INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specif
 INPUT /Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb8t.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb
