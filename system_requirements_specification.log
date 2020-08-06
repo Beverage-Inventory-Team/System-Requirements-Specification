@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 AUG 2020 10:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 AUG 2020 12:56
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**system_requirements_specification.tex
-(./system_requirements_specification.tex
+**"/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.tex"
+(/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -22,18 +22,14 @@ File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count175
@@ -48,25 +44,17 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen141
 \Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks16
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mathdesign.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mathdesign.sty
 Package: mathdesign 2013/08/29 v2.31 Math Design Project
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.cfg)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.sty
-Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
-n Project)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdfont.def
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.cfg) (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.sty
+Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Design Project)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdfont.def
 File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdsffont.def
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdsffont.def
 File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
 
 
@@ -202,22 +190,17 @@ LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
 LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
 LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
 (Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks17
 \XKV@tempa@toks=\toks18
 )
 \XKV@depth=\count178
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 
-186.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/t1mdbch.fd
+LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 186.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/t1mdbch.fd
 File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
 )
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -238,36 +221,29 @@ LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
 \rulethickness=\skip49
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/latin1.def
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2018/08/11 v1.3c Input encoding file
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen143
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen144
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count179
@@ -307,16 +283,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -328,43 +301,35 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language86
 LaTeX Info: Redefining \_ on input line 43.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count191
 \float@exts=\toks27
 \float@box=\box47
 \@float@everytoks=\toks28
 \@floatcapt=\box48
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip53
 \subfigcapskip=\skip54
@@ -383,10 +348,8 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 (/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip57
 \subfig@bottom=\skip58
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/sectsty/sectsty.sty
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
-les
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
 LaTeX Warning: Command \underbar  has changed.
@@ -407,17 +370,13 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen158
 \titlewidthlast=\dimen159
 \titlewidthfirst=\dimen160
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/vhistory/vhistory.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/vhistory/vhistory.sty
 Package: vhistory 
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/carlisle/ltxtable.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/carlisle/ltxtable.sty
 Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen161
 \ar@mcellbox=\box50
@@ -434,8 +393,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \TX@delta=\dimen167
 \TX@cols=\count196
 \TX@ftn=\toks31
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip63
 \LTright=\skip64
@@ -452,22 +410,18 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@tables=\count266
 \c@LT@chunks=\count267
 \LT@p@ftn=\toks32
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/vhistory/sets.sty
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/vhistory/sets.sty
 Package: sets 
 \c@s@tlength=\count268
 )
 Reading file system_requirements_specification.hst...
-(./system_requirements_specification.hst)
+(/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.hst)
 \vh@verfile=\write3
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip67
 \f@nch@O@elh=\skip68
 \f@nch@O@erh=\skip69
@@ -477,24 +431,20 @@ s
 \f@nch@O@erf=\skip73
 \f@nch@O@olf=\skip74
 \f@nch@O@orf=\skip75
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/abstract/abstract.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/abstract/abstract.sty
 Package: abstract 2009/06/08 v1.2a configurable abstracts
 \abstitleskip=\skip76
 \absleftindent=\skip77
 \absrightindent=\skip78
 \absparindent=\skip79
 \absparsep=\skip80
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count269
 \l__pdf_internal_box=\box56
-)
-(./system_requirements_specification.aux)
+) (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.aux)
 \openout1 = `system_requirements_specification.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -512,18 +462,14 @@ LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 66.
-LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 6
-6.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 66.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 66.
-LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 6
-6.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
+LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 66.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
 File: mdbcmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 66.
@@ -577,41 +523,30 @@ LaTeX Font Info:    ... okay on input line 66.
 \everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
@@ -635,11 +570,15 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 11.52008pt on input line 80.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 81.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 8.64006pt on input line 81.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 81.
 
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/beverage.jpg>]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/beverage.jpg>]
 \openout3 = `system_requirements_specification.ver'.
 
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -651,117 +590,49 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 \vh@hstfile=\write4
 \openout4 = `system_requirements_specification.hst'.
 
- (./system_requirements_specification.ver)
-(./system_requirements_specification.ver)
-(./system_requirements_specification.ver
+ (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.ver) (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.ver) (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.ver
 Underfull \vbox (badness 10000) detected at line 34
  []
 
-) [2] (./system_requirements_specification.toc
-LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
- 2.
+)
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
-File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
-)
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-LaTeX Font Info:    Trying to load font information for OML+mdbch on input line
- 2.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 99.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
-File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
-)
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line
- 2.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
-File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
-)
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
- 2.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
-File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
-)
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
- 2.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
-File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
-)
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line
- 2.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
-File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
-)
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 2.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 2.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 2.
-)
+[2]
+No file system_requirements_specification.toc.
 \tf@toc=\write5
 \openout5 = `system_requirements_specification.toc'.
 
 
-[3] (./system_requirements_specification.lof)
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 104.
+
+[3]
+No file system_requirements_specification.lof.
 \tf@lof=\write6
 \openout6 = `system_requirements_specification.lof'.
 
- [4] (./tex/product_concept.tex
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 109.
+
+[4] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/product_concept.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 3.
-<images/CD.png, id=21, 1024.82875pt x 851.18pt>
+<images/CD.png, id=20, 1024.82875pt x 851.18pt>
 File: images/CD.png Graphic file (type png)
 <use images/CD.png>
 Package pdftex.def Info: images/CD.png  used on input line 11.
 (pdftex.def)             Requested size: 281.85587pt x 234.0947pt.
 )
-[5 <./images/CD.png>] (./tex/product_description.tex
-<images/bevearge_data_request.png, id=26, 463.7325pt x 242.9075pt>
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 113.
+
+[5 </Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/CD.png>] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/product_description.tex
+<images/bevearge_data_request.png, id=25, 463.7325pt x 242.9075pt>
 File: images/bevearge_data_request.png Graphic file (type png)
 <use images/bevearge_data_request.png>
-Package pdftex.def Info: images/bevearge_data_request.png  used on input line 1
-5.
+Package pdftex.def Info: images/bevearge_data_request.png  used on input line 15.
 (pdftex.def)             Requested size: 281.85587pt x 147.63962pt.
-<images/home_screen.png, id=27, 255.95625pt x 440.64626pt>
+<images/home_screen.png, id=26, 255.95625pt x 440.64626pt>
 File: images/home_screen.png Graphic file (type png)
 <use images/home_screen.png>
 Package pdftex.def Info: images/home_screen.png  used on input line 29.
@@ -770,49 +641,97 @@ Package pdftex.def Info: images/home_screen.png  used on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [6 <./images/bevearge_data_request.png>] (./tex/customer_requirements.tex
+)
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 116.
+
+[6 </Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/bevearge_data_request.png>] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/customer_requirements.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 10.51207pt on input line 4.
 
-[7 <./images/home_screen.png>] [8] [9] [10]) [11]
-(./tex/packaging_requirements.tex) [12] (./tex/performance_requirements.tex)
-[13] (./tex/safety_requirements.tex
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 6.
+
+[7 </Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/images/home_screen.png>]
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 42.
+
+[8]
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 75.
+
+[9]
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 112.
+
+[10])
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 119.
+
+[11] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/packaging_requirements.tex)
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 122.
+
+[12] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/performance_requirements.tex)
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 125.
+
+[13] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/safety_requirements.tex
 Overfull \hbox (1.60533pt too wide) in paragraph at lines 13--14
-\T1/mdbch/m/n/10.95 Occupational Safety and Health Stan-dards 1910.147 - The co
-n-trol of haz-ardous en-ergy (lock-out/tagout). 
+\T1/mdbch/m/n/10.95 Occupational Safety and Health Stan-dards 1910.147 - The con-trol of haz-ardous en-ergy (lock-out/tagout). 
  []
 
-[14]) [15] (./tex/maintenance_support_requirements.tex) [16]
-(./tex/other_requirements.tex) [17] (./tex/future_items.tex [18]) [19]
-(./system_requirements_specification.bbl
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 36.
 
-) 
+[14])
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 128.
+
+[15] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/maintenance_support_requirements.tex)
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 131.
+
+[16] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/other_requirements.tex)
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 134.
+
+[17] (/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/tex/future_items.tex
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 44.
+
+[18])
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 137.
+
+[19]
+No file system_requirements_specification.bbl.
+
+Package lastpage Warning: Rerun to get the references right on input line 144.
+
+
 AED: lastpage setting LastPage
-[20] (./system_requirements_specification.aux)
+(/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 6636 strings out of 480608
- 92343 string characters out of 5903631
- 339012 words of memory out of 5000000
- 22298 multiletter control sequences out of 15000+600000
- 589002 words of font info for 81 fonts, out of 8000000 for 9000
+ 6536 strings out of 480608
+ 92942 string characters out of 5903631
+ 338931 words of memory out of 5000000
+ 22225 multiletter control sequences out of 15000+600000
+ 583082 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,45p,497b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local
-/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/te
-xlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb8t.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on system_requirements_specification.pdf (20 pages, 434515 bytes
-).
+ 39i,12n,46p,581b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb8t.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
+Output written on "/Users/kunalsamant/Documents/UTA/Senior Design /System-Requirements-Specification/system_requirements_specification.pdf" (19 pages, 431603 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

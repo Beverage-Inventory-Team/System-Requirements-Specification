@@ -1,3 +1,3 @@
 \def \vhCurrentVersion {0.4}
 \def \vhCurrentDate {08.06.2020}
-\newsetsimple \vhAllAuthorsSet {BP|KS|LC|NP}
+\newsetsimple \vhAllAuthorsSet {BP|KS|LC|NP|SR}
