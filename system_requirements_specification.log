@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 AUG 2020 10:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 AUG 2020 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -654,7 +654,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
  (./system_requirements_specification.ver)
 (./system_requirements_specification.ver)
 (./system_requirements_specification.ver
-Underfull \vbox (badness 10000) detected at line 30
+Underfull \vbox (badness 10000) detected at line 34
  []
 
 ) [2] (./system_requirements_specification.toc
@@ -790,7 +790,11 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 ) 
 AED: lastpage setting LastPage
-[20] (./system_requirements_specification.aux) ) 
+[20] (./system_requirements_specification.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  6636 strings out of 480608
  92343 string characters out of 5903631
@@ -799,13 +803,12 @@ Here is how much of TeX's memory you used:
  589002 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,12n,45p,497b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-
-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/texlive/2020/texmf-dist/fonts
-/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
-pe1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1
-/public/mathdesign/mdbch/md-chb8t.pfb></usr/local/texlive/2020/texmf-dist/fonts
-/type1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on system_requirements_specification.pdf (20 pages, 434444 bytes
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local
+/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb8t.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
+Output written on system_requirements_specification.pdf (20 pages, 434515 bytes
 ).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
